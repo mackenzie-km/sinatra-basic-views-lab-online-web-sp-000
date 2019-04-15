@@ -7,7 +7,7 @@ get "/" do
 end
 
 get "/test" do
-<h1><%= "I love " + "Ruby!!" %></h1>
+  <h1> <%="I love " + "Ruby!!"%> </h1>
 end
 
 end
