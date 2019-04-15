@@ -7,7 +7,7 @@ get "/" do
 end
 
 get "/test" do
-  <h1>number of cells: <%= 1 + 1 %> </h1>
+  <h1>  <%= number of cells:1 + 1 %> </h1>
 end
 
 end
